@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - developer.dev2006@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Ctrl+Alt+4 to type "₹" symbol
+- ⚡ Fun fact: 
 
 <!---
 Devansh-716/Devansh-716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
